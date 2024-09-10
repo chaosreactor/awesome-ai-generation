@@ -37,6 +37,7 @@ An awesome list of low- and no-code generative AI resources.
 ### 🖱 Low-code and no-code builders
 
 * [Chaos Reactor](https://www.chaosreactor.com/) - an open source, no-code platform for building generative AI workflows
+* [TailorTask](https://wwww.tailortask.ai) - Automate any boring and repetitive task, without having to learn a new tool
 
 ### 💬 Prompt Design
 
